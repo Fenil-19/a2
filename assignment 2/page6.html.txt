@@ -1,0 +1,131 @@
+<div class="desktop-7-4R2" id="50:55">
+<p class="contact-info-VFS" id="50:56">Contact Info</p>
+<div class="auto-group-bafv-GJ8" id="R2yBe3FbQBCmuGfdk2BAFv">
+<div class="auto-group-knqr-vNg" id="R2yBHdfvskUXY85CZiKNqr">
+<div class="frame-24-qVe" id="50:77">
+<p class="india-phone-support-wYg" id="50:78">India Phone Support</p>
+<p class="india-toll-free-no-24-hours-7-days-a-week-psN" id="50:79">
+1800 1234 5678
+
+<br/>
+1800 5678 1234
+
+<br/>
+India Toll Free No. | 24 hours / 7 Days a week
+
+</p>
+</div>
+<div class="frame-21-GDa" id="50:61">
+<p class="bangladesh-phone-support-nSp" id="50:62">Bangladesh Phone Support</p>
+<p class="bangladesh-toll-free-no-730am-730pm-7-days-a-week-7EC" id="50:63">
++880 9612300300
+
+<br/>
++880 8000300300
+
+<br/>
+Bangladesh Toll Free No. |7.30AM - 7.30PM /
+
+<br/>
+7 Days a week
+
+</p>
+</div>
+</div>
+<div class="auto-group-g5eu-MPS" id="R2yBTNth5STPxRfsaNg5EU">
+<div class="frame-23-Uix" id="50:74">
+<p class="nepal-phone-support-boa" id="50:75">Nepal Phone Support</p>
+<p class="nepal-toll-free-no-830am-830pm-7-days-a-week-WQk" id="50:76">
++977 9515600300
+
+<br/>
++977 5100300983
+
+<br/>
+Nepal Toll Free No. |8.30AM - 8.30PM /
+
+<br/>
+7 Days a week
+
+</p>
+</div>
+<div class="frame-22-PDe" id="50:71">
+<p class="sri-lanka-phone-support-7vL" id="50:72">Sri Lanka Phone Support</p>
+<p class="sri-lanka-toll-free-no-630am-630pm-7-days-a-week-EVA" id="50:73">
++94 11 9612578
+
+<br/>
++94 11 5667896
+
+<br/>
+Sri Lanka Toll Free No. | 6.30AM - 6.30PM /
+
+<br/>
+7 Days a week
+
+</p>
+</div>
+</div>
+</div>
+<div class="frame-41-Jjv" id="110:541">
+<img class="sumsang-2-QHA" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:542"/>
+<p class="sumsang-VpQ" id="110:543">Sumsang</p>
+<div class="frame-37-CD2" id="110:544">
+<p class="home-HkG" id="110:545">Home</p>
+<p class="about-us-oic" id="110:546">About us</p>
+<p class="accessories-9Gg" id="110:547">Accessories</p>
+<p class="contact-GcC" id="110:548">Contact</p>
+<p class="services-cAG" id="110:549">Services</p>
+<p class="shop-KqN" id="110:550">Shop</p>
+</div>
+<p class="search-eck" id="110:551">Search</p>
+<img class="search-1-2-Zji" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:552"/>
+</div>
+<div class="version-4-dark-Ge8" id="111:553">
+<div class="auto-group-b5qp-y2k" id="R2yCRWwpLj7Vrgnmo7B5Qp">
+<div class="products-column-6dA" id="111:555">
+<p class="products-Swv" id="111:556">Products</p>
+<div class="links-b48" id="111:557">
+<p class="smartphones-M3J" id="111:558">Smartphones</p>
+<p class="tablets-eAp" id="111:559">Tablets</p>
+<p class="headphones-b64" id="111:560">Headphones</p>
+<p class="monitors-Knk" id="111:561">Monitors</p>
+</div>
+</div>
+<div class="company-column-TPA" id="111:562">
+<p class="about-us-bkG" id="111:563">About Us</p>
+<div class="links-WcL" id="111:564">
+<p class="company-info-GLc" id="111:565">Company Info</p>
+<p class="business-area-GV2" id="111:566">Business Area</p>
+<p class="brand-identity-1Bi" id="111:567">Brand Identity</p>
+</div>
+</div>
+<div class="resource-column-jdW" id="111:568">
+<p class="industries-fn4" id="111:569">Industries</p>
+<div class="links-p9A" id="111:570">
+<p class="educational-aPE" id="111:571">Educational</p>
+<p class="finance-7PA" id="111:572">Finance</p>
+<p class="retail-rLk" id="111:573">Retail</p>
+<p class="corporate-bJL" id="111:574">Corporate</p>
+</div>
+</div>
+<div class="legal-column-LFv" id="111:576">
+<p class="legal-Ftg" id="111:577">Legal</p>
+<div class="links-avx" id="111:578">
+<p class="terms-of-service-wWc" id="111:579">Terms of Service</p>
+<p class="privacy-policy-UWY" id="111:580">Privacy Policy</p>
+<p class="cookies-policy-oYp" id="111:581">Cookies Policy</p>
+<p class="data-processing-jhN" id="111:582">Data Processing</p>
+</div>
+</div>
+</div>
+<div class="footer-line-4Uk" id="111:554"></div>
+<div class="frame-38-oBS" id="111:583">
+<img class="sumsang-1-YPv" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="111:584"/>
+<p class="sumsang-rvQ" id="111:585">Sumsang</p>
+<img class="instagram-zWp" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="111:586"/>
+<img class="facebook-6pk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="111:588"/>
+<img class="social-links-1B2" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="111:590"/>
+</div>
+</div>
+</div>

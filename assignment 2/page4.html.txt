@@ -1,0 +1,82 @@
+<div class="desktop-5-LKv" id="27:127">
+<div class="auto-group-hv7n-cgk" id="R2y97hHmovGNRtotj1hv7N">
+<div class="frame-17-1MW" id="27:133">
+<p class="shop-WZA" id="27:129">Shop</p>
+<p class="repair-BfJ" id="27:130">Repair </p>
+<p class="software-84k" id="27:131">Software</p>
+<p class="contact-us-s2L" id="27:132">Contact us</p>
+</div>
+<p class="how-can-i-help-you-today-Wb6" id="27:128">How can I help you today?</p>
+<div class="frame-17-1Gx" id="27:134">
+<img class="search-1-1-98G" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="27:136"/>
+</div>
+</div>
+<div class="frame-49-AZA" id="110:414">
+<div class="line-6-tzx" id="27:139"></div>
+<p class="or-search-by-product-buN" id="27:137">Or search by product</p>
+<div class="line-7-rKW" id="27:140"></div>
+</div>
+<div class="auto-group-7oba-zRi" id="R2y9JwU37sKXXdRSMU7oBA">
+<div class="auto-group-2f7i-vqA" id="R2y8asqnp8dnu94B9h2F7i">
+<div class="h1-1-3un" id="27:141"></div>
+<div class="auto-group-nwwl-k3W" id="R2y8kd4Z1pcfKSerAMNwWL">
+<div class="h2-1-gSx" id="27:142"></div>
+<img class="h3-1-zCk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="27:143"/>
+<img class="h5-1-tJ8" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="27:145"/>
+</div>
+</div>
+<div class="auto-group-4st6-EMz" id="R2y8v7njN8kUxWR3QP4ST6">
+<p class="smart-phones-PEt" id="27:146">Smart phones</p>
+<p class="featured-phones-hWU" id="27:147">Featured phones</p>
+<p class="tablets-aKN" id="27:148">Tablets</p>
+<p class="smart-appliances-Hja" id="27:149">Smart Appliances</p>
+</div>
+</div>
+<div class="version-4-dark-2qa" id="110:417">
+<div class="auto-group-swq6-MN4" id="R2yA3LR4ZSTzXma1FRSwq6">
+<div class="products-column-UBn" id="110:419">
+<p class="products-Cda" id="110:420">Products</p>
+<div class="links-JRi" id="110:421">
+<p class="smartphones-3eC" id="110:422">Smartphones</p>
+<p class="tablets-BXS" id="110:423">Tablets</p>
+<p class="headphones-Jrx" id="110:424">Headphones</p>
+<p class="monitors-efv" id="110:425">Monitors</p>
+</div>
+</div>
+<div class="company-column-n1S" id="110:426">
+<p class="about-us-8b6" id="110:427">About Us</p>
+<div class="links-epL" id="110:428">
+<p class="company-info-DcY" id="110:429">Company Info</p>
+<p class="business-area-Mik" id="110:430">Business Area</p>
+<p class="brand-identity-rfW" id="110:431">Brand Identity</p>
+</div>
+</div>
+<div class="resource-column-zWp" id="110:432">
+<p class="industries-Xme" id="110:433">Industries</p>
+<div class="links-sqW" id="110:434">
+<p class="educational-qnL" id="110:435">Educational</p>
+<p class="finance-PJ4" id="110:436">Finance</p>
+<p class="retail-LDJ" id="110:437">Retail</p>
+<p class="corporate-qQx" id="110:438">Corporate</p>
+</div>
+</div>
+<div class="legal-column-Nvg" id="110:440">
+<p class="legal-Y4U" id="110:441">Legal</p>
+<div class="links-VEc" id="110:442">
+<p class="terms-of-service-etC" id="110:443">Terms of Service</p>
+<p class="privacy-policy-kgL" id="110:444">Privacy Policy</p>
+<p class="cookies-policy-HwA" id="110:445">Cookies Policy</p>
+<p class="data-processing-yoz" id="110:446">Data Processing</p>
+</div>
+</div>
+</div>
+<div class="footer-line-Wov" id="110:418"></div>
+<div class="frame-38-QuJ" id="110:447">
+<img class="sumsang-1-MZe" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:448"/>
+<p class="sumsang-3Ba" id="110:449">Sumsang</p>
+<img class="instagram-wnk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:450"/>
+<img class="facebook-FYY" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:452"/>
+<img class="social-links-aap" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:454"/>
+</div>
+</div>
+</div>

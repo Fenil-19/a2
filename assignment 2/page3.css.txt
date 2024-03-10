@@ -1,0 +1,1016 @@
+.desktop-3-Cwv {
+  align-items: flex-end;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .auto-group-rqil-2vx {
+    flex-shrink: 0;
+    height: 10.6rem;
+    position: relative;
+    width: 144.1rem;
+
+    .smartphones-LAx {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.7818rem;
+      font-weight: 900;
+      height: 3.4rem;
+      left: 9.8rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 4.6rem;
+      white-space: nowrap;
+      width: 19rem;
+    }
+    .top-class-JX6 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 1.6rem;
+      font-weight: 400;
+      height: 2rem;
+      left: 11rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 8.6rem;
+      white-space: nowrap;
+      width: 7.2rem;
+    }
+    .frame-9-1Ac {
+      align-items: center;
+      border: solid 0.083rem #9e9e9e;
+      border-radius: 1.4943rem;
+      box-shadow: 0 0.2491rem 0.3321rem #000000, 0 0.2491rem 0.3321rem #000000, 0.2491rem 0 0.3321rem #000000, -0.2491rem 0 0.3321rem #000000;
+      box-sizing: border-box;
+      display: flex;
+      height: 4.4rem;
+      left: 104rem;
+      overflow: hidden;
+      padding: 0.83rem 1.256rem 0.83rem 0.996rem;
+      position: absolute;
+      top: 5.9rem;
+      width: 37.4415rem;
+
+      .search-product-HP2 {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.9925rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0.092rem 17.911rem 0rem 0rem;
+        white-space: nowrap;
+      }
+      .search-1-1-NfN {
+        flex-shrink: 0;
+        height: 2.7396rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 2.9779rem;
+      }
+    }
+    .frame-39-ZUx {
+      align-items: center;
+      border: solid 0.1001rem #000000;
+      box-sizing: border-box;
+      display: flex;
+      height: 4.6032rem;
+      left: 0;
+      overflow: hidden;
+      padding: 0.5rem 4.058rem 0.303rem 0.6rem;
+      position: absolute;
+      top: 0;
+      width: 144.1rem;
+
+      .sumsang-2-DpQ {
+        border-radius: 9.9229rem;
+        flex-shrink: 0;
+        height: 3.7026rem;
+        margin: 0rem 1.471rem 0.098rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 3.3323rem;
+      }
+      .sumsang-6tC {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 2.3016rem;
+        font-weight: 600;
+        line-height: 1.5;
+        margin: 0.3rem 23.324rem 0rem 0rem;
+        white-space: nowrap;
+      }
+      .frame-37-1kG {
+        align-items: flex-end;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 3.3023rem;
+        margin: 0rem 26.719rem 0.498rem 0rem;
+        overflow: hidden;
+        padding: 0.6rem 1.404rem 0rem 2.001rem;
+        position: relative;
+
+        .home-72c {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.8175rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-right: 3.206rem;
+          text-align: right;
+          white-space: nowrap;
+        }
+        .about-us-cVA {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.8175rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-right: 3.2079rem;
+          text-align: right;
+          white-space: nowrap;
+        }
+        .accessories-LAG {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.8175rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-right: 3.2099rem;
+          text-align: right;
+          white-space: nowrap;
+        }
+        .contact-4rx {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.8175rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-right: 3.2074rem;
+          text-align: right;
+          white-space: nowrap;
+        }
+        .services-Qfv {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.8175rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-right: 3.2076rem;
+          text-align: right;
+          white-space: nowrap;
+        }
+        .shop-KXz {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.8175rem;
+          font-weight: 500;
+          line-height: 1.5;
+          text-align: right;
+          white-space: nowrap;
+        }
+      }
+      .search-rnp {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        margin: 0.201rem 0.505rem 0rem 0rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .search-1-2-aip {
+        flex-shrink: 0;
+        height: 2.0667rem;
+        margin-top: 0.468rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 2.2464rem;
+      }
+    }
+  }
+  .auto-group-kjcg-UJQ {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding-top: 1rem;
+    width: 100%;
+
+    .frame-11-c9i {
+      align-items: center;
+      border: solid 0.0724rem #000000;
+      border-radius: 1.9549rem;
+      box-shadow: 0 -0.2172rem 0.2896rem #000000, 0 0.2172rem 0.2896rem #000000, -0.2172rem 0 0.2896rem #000000, 0.2172rem 0 0.2896rem #000000;
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 37.647rem 3.3rem 30.4rem;
+      overflow: hidden;
+      padding: 1.593rem 2.382rem 1.665rem 3.258rem;
+      position: relative;
+      width: calc(100% - 68.0471rem);
+
+      .the-phoni-1-VDW {
+        background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/Px7WPjcDWDZLkmsjVNim1T/files/image/71f05f5ca6420e4135de7072fade7d5addd683f6');
+        background-position: -6.3166rem -1.8424rem;
+        background-size: 143.414% 114.688%;
+        border-radius: 2.8962rem;
+        flex-shrink: 0;
+        height: 25.3418rem;
+        margin-right: 15.647rem;
+        position: relative;
+        width: 20.2659rem;
+      }
+      .auto-group-4rp2-hKa {
+        flex-shrink: 0;
+        margin-bottom: 0.1448rem;
+        width: 34.4rem;
+
+        .auto-group-6ciq-qRn {
+          height: 5.2856rem;
+          margin-bottom: 0.5068rem;
+          position: relative;
+          width: 100%;
+
+          .sumsang-galaxy-s23-ultra-aPN {
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2.6066rem;
+            font-weight: 900;
+            height: 3.2rem;
+            left: 0;
+            line-height: 1.2125;
+            position: absolute;
+            top: 0;
+            white-space: nowrap;
+            width: 34.4rem;
+          }
+          .star-1-ZY8 {
+            height: 2.0997rem;
+            left: 0;
+            object-fit: contain;
+            position: absolute;
+            top: 3.1858rem;
+            vertical-align: top;
+            width: 2.4179rem;
+          }
+          .star-2-HU8 {
+            height: 2.0997rem;
+            left: 2.3894rem;
+            object-fit: contain;
+            position: absolute;
+            top: 3.1858rem;
+            vertical-align: top;
+            width: 2.4179rem;
+          }
+          .star-3-bji {
+            height: 2.0997rem;
+            left: 4.7787rem;
+            object-fit: contain;
+            position: absolute;
+            top: 3.1858rem;
+            vertical-align: top;
+            width: 2.4179rem;
+          }
+          .star-4-k6p {
+            height: 2.0997rem;
+            left: 7.1681rem;
+            object-fit: contain;
+            position: absolute;
+            top: 3.1858rem;
+            vertical-align: top;
+            width: 2.4179rem;
+          }
+          .star-5-tTv {
+            height: 2.0997rem;
+            left: 9.5575rem;
+            object-fit: contain;
+            position: absolute;
+            top: 3.1858rem;
+            vertical-align: top;
+            width: 2.4179rem;
+          }
+          .reviews-pMa {
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.1585rem;
+            font-weight: 400;
+            height: 1.5rem;
+            left: 12.9605rem;
+            line-height: 1.2125;
+            position: absolute;
+            top: 3.7651rem;
+            white-space: nowrap;
+            width: 8.2rem;
+          }
+        }
+        .large-screen-with-4k-hd-resolution-up-to-36-hours-of-battery-lightning-quick-charge-snapdrogun-899-processor-7Lg {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.1585rem;
+          font-weight: 200;
+          line-height: 1.2125;
+          margin: 0rem 0rem 1.227rem 0.362rem;
+          max-width: 33.4rem;
+        }
+        .price-122345-mRE {
+          color: #458f79;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.317rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          margin-left: 0.1448rem;
+          white-space: nowrap;
+        }
+        .auto-group-fvqp-gYC {
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          padding-top: 0.7927rem;
+          width: 100%;
+
+          .auto-group-4tvp-dTS {
+            align-items: center;
+            display: flex;
+            flex-shrink: 0;
+            margin: 0rem 0rem 4.634rem 0.145rem;
+
+            .color-mJk {
+              color: #000000;
+              flex-shrink: 0;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.7377rem;
+              font-weight: 500;
+              line-height: 1.2125;
+              margin: 0.028rem 1.532rem 0rem 0rem;
+              white-space: nowrap;
+            }
+            .ellipse-1-s6t {
+              flex-shrink: 0;
+              height: 2.317rem;
+              margin-right: 1.0737rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 2.6066rem;
+            }
+            .ellipse-3-nUk {
+              flex-shrink: 0;
+              height: 2.317rem;
+              margin-right: 0.7965rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 2.6066rem;
+            }
+            .ellipse-4-j96 {
+              flex-shrink: 0;
+              height: 2.317rem;
+              margin-right: 0.9413rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 2.6066rem;
+            }
+            .ellipse-2-Gui {
+              flex-shrink: 0;
+              height: 2.317rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 2.6066rem;
+            }
+          }
+          .auto-group-woh6-RXi {
+            align-items: flex-start;
+            display: flex;
+            flex-shrink: 0;
+
+            .polygon-1-y3S {
+              flex-shrink: 0;
+              height: 4.1995rem;
+              margin: 0.434rem 1.738rem 0rem 0rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 4.8511rem;
+            }
+            .frame-12-rd2 {
+              align-items: center;
+              background-color: #ffffff;
+              border: solid 0.0724rem #91e1ce;
+              border-radius: 1.4481rem;
+              box-sizing: border-box;
+              color: #91e1ce;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.8825rem;
+              font-weight: 700;
+              height: 4.0547rem;
+              justify-content: center;
+              line-height: 1.2125;
+              margin: 0.072rem 1.303rem 0rem 0rem;
+              overflow: hidden;
+              position: relative;
+              white-space: nowrap;
+              width: 13.3225rem;
+            }
+            .frame-13-Vvt {
+              align-items: center;
+              background-color: #91e1ce;
+              border-radius: 1.4481rem;
+              color: #ffffff;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.8825rem;
+              font-weight: 700;
+              height: 4.1271rem;
+              justify-content: center;
+              line-height: 1.2125;
+              white-space: nowrap;
+              width: 12.7433rem;
+            }
+          }
+        }
+      }
+    }
+    .auto-group-oq9a-sRe {
+      align-items: flex-end;
+      display: flex;
+      flex-shrink: 0;
+      height: 30.3rem;
+      margin: 0rem 12.218rem 1.3rem 12.3rem;
+      width: calc(100% - 24.5177rem);
+
+      .frame-14-yzU {
+        align-items: center;
+        border: solid 0.0773rem #ffffff;
+        box-shadow: 0 -0.3092rem 0.3092rem #000000, 0 0.3092rem 0.3092rem #000000, -0.3092rem 0 0.3092rem #000000, 0.3092rem 0 0.3092rem #000000;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-right: 17.5193rem;
+        overflow: hidden;
+        padding: 1.16rem 1.352rem 0.696rem 2.628rem;
+        position: relative;
+        width: 26.9807rem;
+
+        .p1-1-Vhv {
+          background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/Px7WPjcDWDZLkmsjVNim1T/files/image/4777fc106f171774481bd2872e5809cce66b6be0');
+          background-position: -0.4825rem -0.4317rem;
+          background-size: 105.959% 104.36%;
+          flex-shrink: 0;
+          height: 17.4718rem;
+          margin: 0rem 0.55rem 1.082rem 0rem;
+          position: relative;
+          width: 13.6371rem;
+        }
+        .galaxy-m04-light-green-kNx {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.01rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-bottom: 0.4377rem;
+          white-space: nowrap;
+        }
+        .price-12799-5RE {
+          color: #458f79;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.8554rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          margin: 0rem 11rem 1.102rem 0rem;
+          white-space: nowrap;
+        }
+        .auto-group-gtt8-Pwi {
+          align-items: center;
+          display: flex;
+          flex-shrink: 0;
+          height: 2.5512rem;
+          margin-right: 0.8124rem;
+          width: calc(100% - 0.8124rem);
+
+          .auto-group-vcap-LMA {
+            align-items: center;
+            box-sizing: border-box;
+            display: flex;
+            flex-shrink: 0;
+            height: 100%;
+            padding: 0.077rem 14.321rem 0.077rem 0rem;
+
+            .star-6-gA8 {
+              flex-shrink: 0;
+              height: 2.242rem;
+              margin: 0rem 0.433rem 0.155rem 0rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 2.5816rem;
+            }
+            .item-47-xdS {
+              color: #000000;
+              flex-shrink: 0;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.5462rem;
+              font-weight: 500;
+              line-height: 1.2125;
+              margin-top: 0.1219rem;
+              white-space: nowrap;
+            }
+          }
+          .add-1-SoW {
+            flex-shrink: 0;
+            height: 2.5512rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 2.5512rem;
+          }
+        }
+      }
+      .frame-15-Jap {
+        align-items: center;
+        border: solid 0.0799rem #ffffff;
+        box-shadow: 0 -0.3198rem 0.3198rem #000000, 0 0.3198rem 0.3198rem #000000, -0.3198rem 0 0.3198rem #000000, 0.3198rem 0 0.3198rem #000000;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 100%;
+        margin-right: 20.2984rem;
+        overflow: hidden;
+        padding: 0.32rem 2.239rem 0.958rem 2.718rem;
+        position: relative;
+        width: 27.9016rem;
+
+        .p2-1-zCk {
+          background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/Px7WPjcDWDZLkmsjVNim1T/files/image/8d19aa626624ed55bbeaafe45335f09cd85af849');
+          background-position: -4.2355rem -1.3491rem;
+          background-size: 160.52% 115.87%;
+          flex-shrink: 0;
+          height: 18.3852rem;
+          margin: 0rem 0.4rem 1.122rem 0rem;
+          position: relative;
+          width: 13.2712rem;
+        }
+        .galaxy-z-fold-5g-HBr {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.0786rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 6.245rem 0.998rem 0rem;
+          white-space: nowrap;
+        }
+        .price-10599-cE8 {
+          color: #458f79;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.9187rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          margin: 0rem 10.245rem 0.798rem 0rem;
+          white-space: nowrap;
+        }
+        .auto-group-jq7z-jJk {
+          align-items: flex-end;
+          display: flex;
+          flex-shrink: 0;
+          width: 100%;
+
+          .star-6-egc {
+            flex-shrink: 0;
+            height: 2.3185rem;
+            margin: 0rem 0.448rem 0.001rem 0rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 2.6698rem;
+          }
+          .item-48-yD6 {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.5989rem;
+            font-weight: 500;
+            line-height: 1.2125;
+            margin-right: 14.6887rem;
+            white-space: nowrap;
+          }
+          .add-2-JmA {
+            flex-shrink: 0;
+            height: 2.6383rem;
+            margin-bottom: 0.0813rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 2.6383rem;
+          }
+        }
+      }
+      .frame-16-tUU {
+        align-items: center;
+        border: solid 0.0799rem #ffffff;
+        box-shadow: 0 -0.3198rem 0.3198rem #000000, 0 0.3198rem 0.3198rem #000000, -0.3198rem 0 0.3198rem #000000, 0.3198rem 0 0.3198rem #000000;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 100%;
+        overflow: hidden;
+        padding: 0.48rem 1.999rem 0.958rem 2.718rem;
+        position: relative;
+        width: 26.7823rem;
+
+        .p3-1-ByN {
+          background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/Px7WPjcDWDZLkmsjVNim1T/files/image/d299933ad5edc14f91580a0bbaa075f1873a3bbb');
+          background-position: -2.2137rem -0.2279rem;
+          background-size: 130.645% 102.162%;
+          flex-shrink: 0;
+          height: 18.0681rem;
+          margin: 0rem 1.701rem 1.199rem 0rem;
+          position: relative;
+          width: 14.1289rem;
+        }
+        .galaxy-m34-5g-sLQ {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.0786rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 7.165rem 1.078rem 0rem;
+          white-space: nowrap;
+        }
+        .price-17899-bGQ {
+          color: #458f79;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.9187rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          margin: 0rem 9.565rem 0.798rem 0rem;
+          white-space: nowrap;
+        }
+        .auto-group-e4fe-KTJ {
+          align-items: flex-end;
+          display: flex;
+          flex-shrink: 0;
+          width: 100%;
+
+          .star-6-H9E {
+            flex-shrink: 0;
+            height: 2.3185rem;
+            margin: 0rem 0.448rem 0.001rem 0rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 2.6698rem;
+          }
+          .item-49-pQ4 {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.5989rem;
+            font-weight: 500;
+            line-height: 1.2125;
+            margin-right: 13.8092rem;
+            white-space: nowrap;
+          }
+          .add-3-m4Q {
+            flex-shrink: 0;
+            height: 2.6383rem;
+            margin-bottom: 0.0813rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 2.6383rem;
+          }
+        }
+      }
+    }
+    .version-4-dark-d6c {
+      align-items: center;
+      background-color: #000000;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin-right: 0.1rem;
+      overflow: hidden;
+      padding: 1.1rem 14.189rem 1.5rem 7.6rem;
+      position: relative;
+      width: 144.1rem;
+
+      .auto-group-eam2-XSt {
+        align-items: flex-start;
+        display: flex;
+        flex-shrink: 0;
+        margin: 0rem 6.611rem 1.211rem 0rem;
+
+        .products-column-fJC {
+          flex-shrink: 0;
+          margin-right: 21.8rem;
+          width: 10.4rem;
+
+          .products-zLU {
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.72rem;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1.5289rem;
+            white-space: nowrap;
+          }
+          .links-XLQ {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+
+            .smartphones-tAx {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .tablets-22G {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .headphones-A8U {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .monitors-hPJ {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              white-space: nowrap;
+            }
+          }
+        }
+        .company-column-qEc {
+          flex-shrink: 0;
+          margin-right: 22.8rem;
+          width: 10.9rem;
+
+          .about-us-nfe {
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.72rem;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1.5289rem;
+            white-space: nowrap;
+          }
+          .links-Y92 {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+
+            .company-info-Jdz {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .business-area-ehr {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .brand-identity-b7J {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              white-space: nowrap;
+            }
+          }
+        }
+        .resource-column-XFr {
+          flex-shrink: 0;
+          margin: 0.2rem 22.1rem 0rem 0rem;
+          width: 9.1rem;
+
+          .industries-2TW {
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.72rem;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1.5289rem;
+            white-space: nowrap;
+          }
+          .links-NGU {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+
+            .educational-Vrt {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .finance-EpU {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .retail-yn4 {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .corporate-XHn {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              white-space: nowrap;
+            }
+          }
+        }
+        .legal-column-fet {
+          flex-shrink: 0;
+          margin-top: 0.2rem;
+          width: 12.6rem;
+
+          .legal-RPA {
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.72rem;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 1.5289rem;
+            white-space: nowrap;
+          }
+          .links-B7S {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+
+            .terms-of-service-wMW {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .privacy-policy-5Ti {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .cookies-policy-1sA {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              margin-bottom: 1.72rem;
+              white-space: nowrap;
+            }
+            .data-processing-8B6 {
+              color: rgba(255, 255, 255, 0.8000000119);
+              flex-shrink: 0;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.5289rem;
+              font-weight: 400;
+              line-height: 1.5;
+              white-space: nowrap;
+            }
+          }
+        }
+      }
+      .footer-line-3Yx {
+        background-color: rgba(255, 255, 255, 0.3199999928);
+        flex-shrink: 0;
+        height: 0.0956rem;
+        margin-bottom: 0.6044rem;
+        width: 100%;
+      }
+      .frame-38-BfA {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        margin-right: 7.2889rem;
+        overflow: hidden;
+        position: relative;
+
+        .sumsang-1-KmN {
+          border-radius: 9.916rem;
+          flex-shrink: 0;
+          height: 3.7rem;
+          margin: 0.4rem 1.37rem 0rem 0rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 3.33rem;
+        }
+        .sumsang-qji {
+          color: #ffffff;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 600;
+          line-height: 1.5;
+          margin: 0.5rem 83.5rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .instagram-NUk {
+          border-radius: 9.5556rem;
+          flex-shrink: 0;
+          height: 3.8222rem;
+          margin: 0rem 2.778rem 0.278rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.8222rem;
+        }
+        .facebook-3qn {
+          border-radius: 9.5556rem;
+          flex-shrink: 0;
+          height: 3.8222rem;
+          margin: 0rem 2.378rem 0.278rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.8222rem;
+        }
+        .social-links-AvQ {
+          flex-shrink: 0;
+          height: 3.8222rem;
+          margin-bottom: 0.2778rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.8222rem;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+<div class="desktop-10-wx8" id="97:100">
+<div class="frame-37-BrU" id="110:276">
+<img class="sumsang-2-RuE" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:277"/>
+<p class="sumsang-KDv" id="110:278">Sumsang</p>
+<div class="frame-37-BX2" id="110:279">
+<p class="home-r7N" id="110:280">Home</p>
+<p class="about-us-ZXa" id="110:281">About us</p>
+<p class="accessories-tJx" id="110:282">Accessories</p>
+<p class="contact-owi" id="110:283">Contact</p>
+<p class="services-8DJ" id="110:284">Services</p>
+<p class="shop-G4c" id="110:285">Shop</p>
+</div>
+<p class="search-bMn" id="110:286">Search</p>
+<img class="search-1-2-VTA" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:287"/>
+</div>
+<div class="auto-group-8wpi-ApC" id="R2yGYERPdtKxKuxqcY8wPi">
+<div class="auto-group-52gk-HP2" id="R2yGQKUugHt6xhALur52Gk">
+<div class="line-8-cgC" id="97:102"></div>
+<div class="in-galaxy-s23-s911-sm-s911bzgbins-thumb-535265871-1-YJx" id="97:141"></div>
+<div class="in-galaxy-s23-s911-sm-s911bzgbins-thumb-535265866-1-oVn" id="97:142"></div>
+</div>
+<div class="frame-32-5TJ" id="97:137">
+<p class="device-zKN" id="97:103">
+Device
+
+<br/>
+</p>
+<div class="frame-26-Jqr" id="97:112">
+<p class="galaxy-s23-ultra-from-1083325-month-for-12-months-or-12999900-EjW" id="97:111">
+<span class="galaxy-s23-ultra-from-1083325-month-for-12-months-or-12999900-EjW-sub-0">
+Galaxy S23 Ultra
+
+<br/>
+</span>
+<span class="galaxy-s23-ultra-from-1083325-month-for-12-months-or-12999900-EjW-sub-1">
+From ₹10833.25/month for 12 months or
+
+<br/>
+₹129999.00
+
+</span>
+</p>
+</div>
+</div>
+<div class="frame-33-xhS" id="97:138">
+<p class="storage-Ufn" id="97:113">
+Storage
+
+<br/>
+</p>
+<div class="frame-27-C5z" id="97:116">
+<p class="gb-from-1083325-month-for-12-months-or-12999900-7ik" id="97:117">
+<span class="gb-from-1083325-month-for-12-months-or-12999900-7ik-sub-0">
+256 | 12GB
+
+<br/>
+</span>
+<span class="gb-from-1083325-month-for-12-months-or-12999900-7ik-sub-1">
+From ₹10833.25/month for 12 months or
+
+<br/>
+₹129999.00
+
+</span>
+</p>
+</div>
+<div class="frame-29-dKi" id="97:120">
+<p class="gb-from-1083325-month-for-12-months-or-12999900-jtY" id="97:121">
+<span class="gb-from-1083325-month-for-12-months-or-12999900-jtY-sub-0">
+512 | 12GB
+
+<br/>
+</span>
+<span class="gb-from-1083325-month-for-12-months-or-12999900-jtY-sub-1">
+From ₹10833.25/month for 12 months or
+
+<br/>
+₹129999.00
+
+</span>
+</p>
+</div>
+<div class="frame-28-uwS" id="97:118">
+<p class="tb-12gb-from-1083325-month-for-12-months-or-12999900-qq6" id="97:119">
+<span class="tb-12gb-from-1083325-month-for-12-months-or-12999900-qq6-sub-0">
+1TB | 12GB
+
+<br/>
+</span>
+<span class="tb-12gb-from-1083325-month-for-12-months-or-12999900-qq6-sub-1">
+From ₹10833.25/month for 12 months or
+
+<br/>
+₹129999.00
+
+</span>
+</p>
+</div>
+</div>
+<div class="frame-34-DKr" id="97:139">
+<p class="colour-iXW" id="97:122">
+Colour
+
+<br/>
+</p>
+<div class="frame-31-evx" id="97:136">
+<img class="ellipse-6-zzp" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="97:107"/>
+<img class="ellipse-8-Xzk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="97:109"/>
+<img class="ellipse-7-5mN" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="97:108"/>
+<img class="ellipse-5-qEk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="97:106"/>
+</div>
+</div>
+<div class="frame-35-BJc" id="97:140">
+<p class="delevery-details-WLt" id="97:124">
+Delevery Details
+
+<br/>
+</p>
+<div class="frame-30-35v" id="97:129">
+<p class="enter-pincode-NP6" id="97:130">Enter Pincode</p>
+<div class="line-9-uP2" id="97:131"></div>
+<p class="order-by-11-pm-and-get-next-day-delivery-412" id="97:132">Order by 11 PM and get Next day delivery.*</p>
+</div>
+</div>
+</div>
+</div>

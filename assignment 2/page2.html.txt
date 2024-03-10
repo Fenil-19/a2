@@ -1,0 +1,59 @@
+<div class="desktop-1-Yhr" id="2:4">
+<div class="frame-39-X3z" id="103:238">
+<div class="line-2-J6g" id="3:29"></div>
+<div class="line-1-CC4" id="3:28"></div>
+<div class="frame-40-jBz" id="103:239">
+<p class="create-account-8E8" id="2:6">Create Account</p>
+<div class="auto-group-arzw-Yoe" id="R2xvcocd8G2Kis2wLbARZW">
+<div class="frame-1-3VW" id="3:14">First Name</div>
+<div class="frame-2-388" id="3:15">Last Name</div>
+</div>
+<div class="frame-3-t8k" id="3:17">Email</div>
+<div class="frame-4-VPS" id="3:19">Password</div>
+<div class="frame-5-LQ4" id="3:24">Create Account</div>
+<p class="already-have-an-accountlogin-ybS" id="3:26">
+<span class="already-have-an-accountlogin-ybS-sub-0">Already have an account?</span>
+<span class="already-have-an-accountlogin-ybS-sub-1">Login</span>
+</p>
+<p class="or-CW8" id="3:27">or</p>
+<div class="auto-group-rv3a-L6Y" id="R2xvqxuMxmEBU6PVCZRV3a">
+<div class="frame-6-Twr" id="3:30">
+<img class="google-1-xdi" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="3:36"/>
+<p class="continue-with-google-qUY" id="3:31"> Continue with google</p>
+</div>
+<div class="frame-7-vVz" id="3:32">
+<img class="facebook-1-fTa" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="3:37"/>
+<p class="continue-with-facebook-Qg4" id="3:33">Continue with facebook</p>
+</div>
+</div>
+</div>
+</div>
+<div class="frame-41-FRn" id="103:240">
+<div class="auto-group-bwzn-WsW" id="R2xwQCUenMKN5sDFU8bwZn">
+<p class="sign-in-3cY" id="23:70">Sign in</p>
+<p class="to-your-account-yFJ" id="23:91">to your account</p>
+</div>
+<div class="frame-3-uPr" id="23:75">Email</div>
+<div class="frame-4-YSp" id="23:77">Password</div>
+<p class="do-not-have-an-account-create-one-CGU" id="23:69">
+<span class="do-not-have-an-account-create-one-CGU-sub-0">Do not have an account?</span>
+<span class="do-not-have-an-account-create-one-CGU-sub-1"> Create one</span>
+</p>
+<div class="frame-5-WwN" id="23:79">Sign In</div>
+<div class="auto-group-4grx-PVN" id="R2xwWXdSME5FBF43dV4Grx">
+<div class="line-1-7wA" id="23:81"></div>
+<p class="or-Bw2" id="23:68">or</p>
+<div class="line-2-heU" id="23:82"></div>
+</div>
+<div class="auto-group-s13r-3CY" id="R2xwdMmPcrXDq6ZoL6s13r">
+<div class="frame-6-MU8" id="23:83">
+<img class="google-1-FZW" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="23:87"/>
+<p class="continue-with-google-P9v" id="23:84"> Continue with google</p>
+</div>
+<div class="frame-7-VTr" id="23:85">
+<img class="facebook-1-pm2" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="23:88"/>
+<p class="continue-with-facebook-Apt" id="23:86">Continue with facebook</p>
+</div>
+</div>
+</div>
+</div>

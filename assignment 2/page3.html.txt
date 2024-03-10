@@ -1,0 +1,143 @@
+<div class="desktop-3-Cwv" id="18:2">
+<div class="auto-group-rqil-2vx" id="R2y18bG62XesYT3ssjrqiL">
+<p class="smartphones-LAx" id="22:3">Smartphones</p>
+<p class="top-class-JX6" id="22:4">Top class</p>
+<div class="frame-9-1Ac" id="22:6">
+<p class="search-product-HP2" id="22:7">search product</p>
+<img class="search-1-1-NfN" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:8"/>
+</div>
+<div class="frame-39-ZUx" id="110:352">
+<img class="sumsang-2-DpQ" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:353"/>
+<p class="sumsang-6tC" id="110:354">Sumsang</p>
+<div class="frame-37-1kG" id="110:355">
+<p class="home-72c" id="110:356">Home</p>
+<p class="about-us-cVA" id="110:357">About us</p>
+<p class="accessories-LAG" id="110:358">Accessories</p>
+<p class="contact-4rx" id="110:359">Contact</p>
+<p class="services-Qfv" id="110:360">Services</p>
+<p class="shop-KXz" id="110:361">Shop</p>
+</div>
+<p class="search-rnp" id="110:362">Search</p>
+<img class="search-1-2-aip" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:363"/>
+</div>
+</div>
+<div class="auto-group-kjcg-UJQ" id="R2y2biUv3WQXvP8KMpkjcg">
+<div class="frame-11-c9i" id="22:9">
+<div class="the-phoni-1-VDW" id="22:10"></div>
+<div class="auto-group-4rp2-hKa" id="R2y37HTynQosYwhe5z4RP2">
+<div class="auto-group-6ciq-qRn" id="R2y3SXQvLQvZcK4WLg6ciQ">
+<p class="sumsang-galaxy-s23-ultra-aPN" id="22:13">Sumsang Galaxy S23 Ultra</p>
+<img class="star-1-ZY8" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:15"/>
+<img class="star-2-HU8" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:19"/>
+<img class="star-3-bji" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:20"/>
+<img class="star-4-k6p" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:21"/>
+<img class="star-5-tTv" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:22"/>
+<p class="reviews-pMa" id="22:23">(100+ reviews)</p>
+</div>
+<p class="large-screen-with-4k-hd-resolution-up-to-36-hours-of-battery-lightning-quick-charge-snapdrogun-899-processor-7Lg" id="22:14">
+Large screen with 4K HD resolution. Up to 36 hours of battery.
+
+<br/>
+Lightning Quick charge. Snapdrogun 899 processor.
+
+</p>
+<p class="price-122345-mRE" id="22:24">Price ₹122345</p>
+<div class="auto-group-fvqp-gYC" id="R2y3yBCWmHKmxEva4ufVQp">
+<div class="auto-group-4tvp-dTS" id="R2y3drRNvpbQJTcstg4tvp">
+<p class="color-mJk" id="22:26">color</p>
+<img class="ellipse-1-s6t" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:29"/>
+<img class="ellipse-3-nUk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:31"/>
+<img class="ellipse-4-j96" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:32"/>
+<img class="ellipse-2-Gui" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="22:30"/>
+</div>
+<div class="auto-group-woh6-RXi" id="R2y3o1pn9JGVZsbmSXWoH6">
+<img class="polygon-1-y3S" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="23:92"/>
+<div class="frame-12-rd2" id="22:33">Add to cart</div>
+<div class="frame-13-Vvt" id="22:34">Buy now</div>
+</div>
+</div>
+</div>
+</div>
+<div class="auto-group-oq9a-sRe" id="R2y1XFH1DLzYvkAcyjoQ9A">
+<div class="frame-14-yzU" id="25:106">
+<div class="p1-1-Vhv" id="25:93"></div>
+<p class="galaxy-m04-light-green-kNx" id="25:103">Galaxy M04 Light Green</p>
+<p class="price-12799-5RE" id="25:105">Price ₹12799</p>
+<div class="auto-group-gtt8-Pwi" id="R2y1jzQmdZ7zhuo3DzGTt8">
+<div class="auto-group-vcap-LMA" id="R2y1qzEn4bR9RdrXhAVCap">
+<img class="star-6-gA8" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="25:107"/>
+<p class="item-47-xdS" id="25:109">4.7</p>
+</div>
+<img class="add-1-SoW" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="25:124"/>
+</div>
+</div>
+<div class="frame-15-Jap" id="25:110">
+<div class="p2-1-zCk" id="25:99"></div>
+<p class="galaxy-z-fold-5g-HBr" id="25:102">Galaxy Z Fold 5G</p>
+<p class="price-10599-cE8" id="25:113">Price ₹10599</p>
+<div class="auto-group-jq7z-jJk" id="R2y27yn8YhYDLuMAwdjq7z">
+<img class="star-6-egc" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="25:114"/>
+<p class="item-48-yD6" id="25:115">4.8</p>
+<img class="add-2-JmA" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="25:125"/>
+</div>
+</div>
+<div class="frame-16-tUU" id="25:116">
+<div class="p3-1-ByN" id="25:100"></div>
+<p class="galaxy-m34-5g-sLQ" id="25:101">Galaxy M34 5g</p>
+<p class="price-17899-bGQ" id="25:117">Price ₹17899</p>
+<div class="auto-group-e4fe-KTJ" id="R2y2QJeGAe81dpd7tHE4Fe">
+<img class="star-6-H9E" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="25:118"/>
+<p class="item-49-pQ4" id="25:119">4.9</p>
+<img class="add-3-m4Q" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="25:126"/>
+</div>
+</div>
+</div>
+<div class="version-4-dark-d6c" id="110:364">
+<div class="auto-group-eam2-XSt" id="R2y5SYuvddvV7QqVKdEam2">
+<div class="products-column-fJC" id="110:366">
+<p class="products-zLU" id="110:367">Products</p>
+<div class="links-XLQ" id="110:368">
+<p class="smartphones-tAx" id="110:369">Smartphones</p>
+<p class="tablets-22G" id="110:370">Tablets</p>
+<p class="headphones-A8U" id="110:371">Headphones</p>
+<p class="monitors-hPJ" id="110:372">Monitors</p>
+</div>
+</div>
+<div class="company-column-qEc" id="110:373">
+<p class="about-us-nfe" id="110:374">About Us</p>
+<div class="links-Y92" id="110:375">
+<p class="company-info-Jdz" id="110:376">Company Info</p>
+<p class="business-area-ehr" id="110:377">Business Area</p>
+<p class="brand-identity-b7J" id="110:378">Brand Identity</p>
+</div>
+</div>
+<div class="resource-column-XFr" id="110:379">
+<p class="industries-2TW" id="110:380">Industries</p>
+<div class="links-NGU" id="110:381">
+<p class="educational-Vrt" id="110:382">Educational</p>
+<p class="finance-EpU" id="110:383">Finance</p>
+<p class="retail-yn4" id="110:384">Retail</p>
+<p class="corporate-XHn" id="110:385">Corporate</p>
+</div>
+</div>
+<div class="legal-column-fet" id="110:387">
+<p class="legal-RPA" id="110:388">Legal</p>
+<div class="links-B7S" id="110:389">
+<p class="terms-of-service-wMW" id="110:390">Terms of Service</p>
+<p class="privacy-policy-5Ti" id="110:391">Privacy Policy</p>
+<p class="cookies-policy-1sA" id="110:392">Cookies Policy</p>
+<p class="data-processing-8B6" id="110:393">Data Processing</p>
+</div>
+</div>
+</div>
+<div class="footer-line-3Yx" id="110:365"></div>
+<div class="frame-38-BfA" id="110:394">
+<img class="sumsang-1-KmN" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:395"/>
+<p class="sumsang-qji" id="110:396">Sumsang</p>
+<img class="instagram-NUk" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:397"/>
+<img class="facebook-3qn" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:399"/>
+<img class="social-links-AvQ" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="110:401"/>
+</div>
+</div>
+</div>
+</div>

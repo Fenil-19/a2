@@ -1,0 +1,81 @@
+<div class="desktop-11-fsS" id="97:134">
+<div class="frame-38-fW4" id="120:47">
+<img class="sumsang-2-XRn" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="120:48"/>
+<p class="sumsang-164" id="120:49">Sumsang</p>
+<div class="frame-37-stx" id="120:50">
+<p class="home-Z16" id="120:51">Home</p>
+<p class="about-us-fpp" id="120:52">About us</p>
+<p class="accessories-oRE" id="120:53">Accessories</p>
+<p class="contact-vVr" id="120:54">Contact</p>
+<p class="services-FY8" id="120:55">Services</p>
+<p class="shop-mWU" id="120:56">Shop</p>
+</div>
+<p class="search-s3i" id="120:57">Search</p>
+<img class="search-1-2-wpG" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="120:58"/>
+</div>
+<div class="frame-42-zXe" id="104:241">
+<img class="user-2-TRE" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="104:244"/>
+<div class="line-10-AaY" id="104:245"></div>
+<p class="name-tmS" id="104:247">Name</p>
+<div class="frame-8-DHv" id="104:242"></div>
+<p class="email-JqA" id="105:255">Email</p>
+<div class="frame-9-e8L" id="105:256"></div>
+<p class="password-L1A" id="105:257">Password</p>
+<div class="frame-10-f3S" id="105:258"></div>
+<p class="date-of-birth-Akt" id="105:259">Date of Birth</p>
+<div class="frame-11-JMJ" id="105:260"></div>
+<div class="frame-43-paY" id="105:267">Payment Details </div>
+<div class="frame-44-rn8" id="105:269">Order History </div>
+<div class="auto-group-ze76-6Ag" id="R2yHzgzfPCA9xYUfiGZe76">
+<div class="frame-45-oKz" id="105:272">Edit profile</div>
+<div class="frame-46-EgC" id="105:273">Logout</div>
+</div>
+</div>
+<div class="version-4-dark-gHJ" id="120:59">
+<div class="auto-group-cspa-PBi" id="R2yJbbABHTwBZXYsXFcsPA">
+<div class="products-column-iDz" id="120:61">
+<p class="products-qpQ" id="120:62">Products</p>
+<div class="links-mxx" id="120:63">
+<p class="smartphones-LFN" id="120:64">Smartphones</p>
+<p class="tablets-Cwn" id="120:65">Tablets</p>
+<p class="headphones-Ykk" id="120:66">Headphones</p>
+<p class="monitors-HiL" id="120:67">Monitors</p>
+</div>
+</div>
+<div class="company-column-dGQ" id="120:68">
+<p class="about-us-n9J" id="120:69">About Us</p>
+<div class="links-j4Y" id="120:70">
+<p class="company-info-swS" id="120:71">Company Info</p>
+<p class="business-area-23e" id="120:72">Business Area</p>
+<p class="brand-identity-wwJ" id="120:73">Brand Identity</p>
+</div>
+</div>
+<div class="resource-column-UwE" id="120:74">
+<p class="industries-oyW" id="120:75">Industries</p>
+<div class="links-YgC" id="120:76">
+<p class="educational-uFr" id="120:77">Educational</p>
+<p class="finance-EZ2" id="120:78">Finance</p>
+<p class="retail-BDN" id="120:79">Retail</p>
+<p class="corporate-ij6" id="120:80">Corporate</p>
+</div>
+</div>
+<div class="legal-column-42G" id="120:82">
+<p class="legal-b2C" id="120:83">Legal</p>
+<div class="links-XgY" id="120:84">
+<p class="terms-of-service-gZS" id="120:85">Terms of Service</p>
+<p class="privacy-policy-QEY" id="120:86">Privacy Policy</p>
+<p class="cookies-policy-Ldz" id="120:87">Cookies Policy</p>
+<p class="data-processing-UkC" id="120:88">Data Processing</p>
+</div>
+</div>
+</div>
+<div class="footer-line-1VE" id="120:60"></div>
+<div class="frame-38-9bS" id="120:89">
+<img class="sumsang-1-u4p" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="120:90"/>
+<p class="sumsang-1tY" id="120:91">Sumsang</p>
+<img class="instagram-Lfv" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="120:92"/>
+<img class="facebook-egc" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="120:94"/>
+<img class="social-links-a4U" src="/api/prod-ap-southeast-1-first-cluster/projects/Px..." id="120:96"/>
+</div>
+</div>
+</div>

@@ -1,0 +1,557 @@
+.desktop-5-LKv {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .auto-group-hv7n-cgk {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 1.3rem 3.4rem 2.6rem 2.3rem;
+    row-gap: 3.7rem;
+    width: 100%;
+
+    .frame-17-1MW {
+      align-items: center;
+      background-color: #000000;
+      border: solid 0.1rem #000000;
+      border-radius: 2.7rem;
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      overflow: hidden;
+      padding: 2.5rem 8rem 2.1rem 6.8rem;
+      position: relative;
+      width: 100%;
+
+      .shop-WZA {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        margin-right: 23.4rem;
+        white-space: nowrap;
+      }
+      .repair-BfJ {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        margin-right: 23.1rem;
+        white-space: nowrap;
+      }
+      .software-84k {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        margin-right: 20.9rem;
+        white-space: nowrap;
+      }
+      .contact-us-s2L {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        white-space: nowrap;
+      }
+    }
+    .how-can-i-help-you-today-Wb6 {
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 600;
+      line-height: 1.2125;
+      margin-left: 9.3rem;
+      white-space: nowrap;
+    }
+    .frame-17-1Gx {
+      border: solid 0.1rem #9e9e9e;
+      border-radius: 1.8rem;
+      box-shadow: 0 0.3rem 0.4rem #000000, 0 0.3rem 0.4rem #000000, 0.3rem 0 0.4rem #000000, -0.3rem 0 0.4rem #000000;
+      box-sizing: border-box;
+      flex-shrink: 0;
+      margin-left: 8.3rem;
+      overflow: hidden;
+      padding: 1rem 1.4rem;
+      position: relative;
+      width: 82.5rem;
+
+      .search-1-1-98G {
+        height: 3.3rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 3.587rem;
+      }
+    }
+  }
+  .frame-49-AZA {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    overflow: hidden;
+    padding: 1.8rem 1.5rem 2.3rem 0rem;
+    position: relative;
+    width: 100%;
+
+    .line-6-tzx {
+      background-color: #000000;
+      flex-shrink: 0;
+      height: 0.1rem;
+      margin: 1.1rem 0.9rem 0rem 0rem;
+      width: 60rem;
+    }
+    .or-search-by-product-buN {
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 0.8rem;
+      white-space: nowrap;
+    }
+    .line-7-rKW {
+      background-color: #000000;
+      flex-shrink: 0;
+      height: 0.1rem;
+      margin-top: 0.1rem;
+      width: 59.2rem;
+    }
+  }
+  .auto-group-7oba-zRi {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 3.5rem 9.5rem 4.8rem 5.2rem;
+    width: 100%;
+
+    .auto-group-2f7i-vqA {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      height: 21.3rem;
+      margin: 0rem 1.883rem 5.4rem 0rem;
+      width: calc(100% - 1.8835rem);
+
+      .h1-1-3un {
+        background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/Px7WPjcDWDZLkmsjVNim1T/files/image/05e1af61041efffb742b794efe37b2825076b118');
+        background-position: 0 0.3711rem;
+        background-size: 100% 98.258%;
+        flex-shrink: 0;
+        height: 21.3rem;
+        position: relative;
+        width: 28.9443rem;
+      }
+      .auto-group-nwwl-k3W {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 100%;
+        padding: 1.4rem 0rem 0rem 9.956rem;
+
+        .h2-1-gSx {
+          background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/Px7WPjcDWDZLkmsjVNim1T/files/image/40c46c16e385f4f4a8e40effcc7f004bfb819abc');
+          background-position: 0.0258rem -2.602rem;
+          background-size: 99.538% 119.562%;
+          flex-shrink: 0;
+          height: 19.9rem;
+          margin-right: 19.1159rem;
+          position: relative;
+          width: 11.1841rem;
+        }
+        .h3-1-zCk {
+          flex-shrink: 0;
+          height: 18.2rem;
+          margin: 0rem 15.7rem 1.3rem 0rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 20.9rem;
+        }
+        .h5-1-tJ8 {
+          flex-shrink: 0;
+          height: 19.8rem;
+          margin-top: 0.1rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 21.6165rem;
+        }
+      }
+    }
+    .auto-group-4st6-EMz {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      margin-left: 3.5rem;
+
+      .smart-phones-PEt {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-right: 15.5rem;
+        white-space: nowrap;
+      }
+      .featured-phones-hWU {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-right: 20.6rem;
+        white-space: nowrap;
+      }
+      .tablets-aKN {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-right: 26.3rem;
+        white-space: nowrap;
+      }
+      .smart-appliances-Hja {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        white-space: nowrap;
+      }
+    }
+  }
+  .version-4-dark-2qa {
+    align-items: center;
+    background-color: #000000;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    overflow: hidden;
+    padding: 1.1rem 14.189rem 1.5rem 7.6rem;
+    position: relative;
+    width: 144.1rem;
+
+    .auto-group-swq6-MN4 {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 6.611rem 1.211rem 0rem;
+
+      .products-column-UBn {
+        flex-shrink: 0;
+        margin-right: 21.8rem;
+        width: 10.4rem;
+
+        .products-Cda {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-JRi {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .smartphones-3eC {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .tablets-BXS {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .headphones-Jrx {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .monitors-efv {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+      .company-column-n1S {
+        flex-shrink: 0;
+        margin-right: 22.8rem;
+        width: 10.9rem;
+
+        .about-us-8b6 {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-epL {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .company-info-DcY {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .business-area-Mik {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .brand-identity-rfW {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+      .resource-column-zWp {
+        flex-shrink: 0;
+        margin: 0.2rem 22.1rem 0rem 0rem;
+        width: 9.1rem;
+
+        .industries-Xme {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-sqW {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .educational-qnL {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .finance-PJ4 {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .retail-LDJ {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .corporate-qQx {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+      .legal-column-Nvg {
+        flex-shrink: 0;
+        margin-top: 0.2rem;
+        width: 12.6rem;
+
+        .legal-Y4U {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-VEc {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .terms-of-service-etC {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .privacy-policy-kgL {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .cookies-policy-HwA {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .data-processing-yoz {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .footer-line-Wov {
+      background-color: rgba(255, 255, 255, 0.3199999928);
+      flex-shrink: 0;
+      height: 0.0956rem;
+      margin-bottom: 0.6044rem;
+      width: 100%;
+    }
+    .frame-38-QuJ {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      margin-right: 7.2889rem;
+      overflow: hidden;
+      position: relative;
+
+      .sumsang-1-MZe {
+        border-radius: 9.916rem;
+        flex-shrink: 0;
+        height: 3.7rem;
+        margin: 0.4rem 1.37rem 0rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 3.33rem;
+      }
+      .sumsang-3Ba {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 1.5;
+        margin: 0.5rem 83.5rem 0rem 0rem;
+        white-space: nowrap;
+      }
+      .instagram-wnk {
+        border-radius: 9.5556rem;
+        flex-shrink: 0;
+        height: 3.8222rem;
+        margin: 0rem 2.778rem 0.278rem 0rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 3.8222rem;
+      }
+      .facebook-FYY {
+        border-radius: 9.5556rem;
+        flex-shrink: 0;
+        height: 3.8222rem;
+        margin: 0rem 2.378rem 0.278rem 0rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 3.8222rem;
+      }
+      .social-links-aap {
+        flex-shrink: 0;
+        height: 3.8222rem;
+        margin-bottom: 0.2778rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 3.8222rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,476 @@
+.desktop-1-Yhr {
+  align-items: center;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  display: flex;
+  overflow: hidden;
+  padding: 10.8rem 0.559rem 13.8rem 0.4rem;
+  position: relative;
+  width: 100%;
+
+  .frame-39-X3z {
+    background-color: #ffffff;
+    border: solid 0.1rem #000000;
+    border-radius: 4.4666rem;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 77.8rem;
+    margin-right: 1.1204rem;
+    overflow: hidden;
+    position: relative;
+    width: 72.1795rem;
+
+    .line-2-J6g {
+      background-color: #723d3d;
+      height: 0.2627rem;
+      left: 38.3882rem;
+      position: absolute;
+      top: 63.6914rem;
+      width: 33.7121rem;
+    }
+    .line-1-CC4 {
+      background-color: #733d3d;
+      height: 0.2627rem;
+      left: -0.1003rem;
+      position: absolute;
+      top: 63.6914rem;
+      width: 34.4606rem;
+    }
+    .frame-40-jBz {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      height: 65.3344rem;
+      left: 3.2302rem;
+      overflow: hidden;
+      position: absolute;
+      top: 7.8822rem;
+      width: 66.3367rem;
+
+      .create-account-8E8 {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 4.4666rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 0.154rem 8.162rem 0rem;
+        white-space: nowrap;
+      }
+      .auto-group-arzw-Yoe {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        height: 4.7293rem;
+        margin: 0rem 0.263rem 2.277rem 0.039rem;
+        width: calc(100% - 0.3017rem);
+
+        .frame-1-3VW {
+          background-color: #ffffff;
+          border: solid 0.1752rem #000000;
+          border-radius: 0.9634rem;
+          box-sizing: border-box;
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.7516rem;
+          font-weight: 400;
+          height: 100%;
+          line-height: 1.2125;
+          margin-right: 2.9777rem;
+          padding: 1.139rem 1.139rem 1.391rem 1.139rem;
+          white-space: nowrap;
+          width: 31.0907rem;
+        }
+        .frame-2-388 {
+          background-color: #ffffff;
+          border: solid 0.1752rem #000000;
+          border-radius: 0.9634rem;
+          box-sizing: border-box;
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.7516rem;
+          font-weight: 400;
+          height: 100%;
+          line-height: 1.2125;
+          padding: 1.139rem 1.139rem 1.391rem 1.139rem;
+          white-space: nowrap;
+          width: 31.9665rem;
+        }
+      }
+      .frame-3-t8k {
+        background-color: #ffffff;
+        border: solid 0.1752rem #000000;
+        border-radius: 0.9634rem;
+        box-sizing: border-box;
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.7516rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 0.224rem 2.54rem 0rem;
+        padding: 1.139rem 1.139rem 1.391rem 1.139rem;
+        white-space: nowrap;
+        width: 66.035rem;
+      }
+      .frame-4-VPS {
+        background-color: #ffffff;
+        border: solid 0.1752rem #000000;
+        border-radius: 0.9634rem;
+        box-sizing: border-box;
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.7516rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 0.224rem 3.496rem 0rem;
+        padding: 1.139rem 1.139rem 1.391rem 1.139rem;
+        white-space: nowrap;
+        width: 66.035rem;
+      }
+      .frame-5-LQ4 {
+        align-items: center;
+        background-color: #ff0000;
+        border-radius: 1.9268rem;
+        color: #ffffff;
+        display: flex;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.1529rem;
+        font-weight: 400;
+        height: 9.3215rem;
+        justify-content: center;
+        line-height: 1.2125;
+        margin: 0rem 0.288rem 0.845rem 0rem;
+        white-space: nowrap;
+        width: 66.0491rem;
+      }
+      .already-have-an-accountlogin-ybS {
+        align-items: baseline;
+        color: #000000;
+        display: flex;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.7516rem;
+        font-weight: 400;
+        line-height: 1.2102272573;
+        margin: 0rem 38.082rem 5.719rem 0rem;
+        white-space: nowrap;
+
+        .already-have-an-accountlogin-ybS-sub-0 {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.7516rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+        .already-have-an-accountlogin-ybS-sub-1 {
+          color: #e42828;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.7516rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+      }
+      .or-CW8 {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.1019rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 0rem 3.756rem 0.125rem;
+        white-space: nowrap;
+      }
+      .auto-group-rv3a-L6Y {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        height: 4.7293rem;
+        margin-left: 0.039rem;
+        width: calc(100% - 0.039rem);
+
+        .frame-6-Twr {
+          align-items: center;
+          background-color: #ffffff;
+          border: solid 0.1752rem #000000;
+          border-radius: 0.9634rem;
+          box-sizing: border-box;
+          display: flex;
+          flex-shrink: 0;
+          height: 100%;
+          margin-right: 4.1162rem;
+          padding: 1.314rem 5.684rem 1.216rem 4.291rem;
+
+          .google-1-xdi {
+            flex-shrink: 0;
+            height: 1.8392rem;
+            margin: 0rem 0.088rem 0.011rem 0rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 3.328rem;
+          }
+          .continue-with-google-qUY {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.7516rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            white-space: nowrap;
+          }
+        }
+        .frame-7-vVz {
+          align-items: center;
+          background-color: #ffffff;
+          border: solid 0.1752rem #000000;
+          border-radius: 0.9634rem;
+          box-sizing: border-box;
+          display: flex;
+          flex-shrink: 0;
+          height: 100%;
+          padding: 1.051rem 2.983rem 1.139rem 4.817rem;
+
+          .facebook-1-fTa {
+            flex-shrink: 0;
+            height: 2.5398rem;
+            margin-right: 1.051rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 2.5398rem;
+          }
+          .continue-with-facebook-Qg4 {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.7516rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-top: 0.1857rem;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+  }
+  .frame-41-FRn {
+    align-items: center;
+    background-color: #ffffff;
+    border: solid 0.1rem #000000;
+    border-radius: 4.4482rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 77.8rem;
+    overflow: hidden;
+    padding: 7.937rem 0rem 11.862rem 0rem;
+    position: relative;
+    width: 69.7407rem;
+
+    .auto-group-bwzn-WsW {
+      align-items: flex-end;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 17.738rem 9.951rem 27.803rem;
+      width: calc(100% - 45.5411rem);
+
+      .sign-in-3cY {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 4.4482rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-right: 1.4996rem;
+        white-space: nowrap;
+      }
+      .to-your-account-yFJ {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.1339rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-bottom: 0.424rem;
+        white-space: nowrap;
+      }
+    }
+    .frame-3-uPr {
+      background-color: #ffffff;
+      border: solid 0.1744rem #000000;
+      border-radius: 0.9594rem;
+      box-sizing: border-box;
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 1.7444rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 1.991rem 2.529rem 1.986rem;
+      padding: 1.134rem 1.134rem 1.376rem 1.134rem;
+      white-space: nowrap;
+      width: calc(100% - 3.977rem);
+    }
+    .frame-4-YSp {
+      background-color: #ffffff;
+      border: solid 0.1744rem #000000;
+      border-radius: 0.9594rem;
+      box-sizing: border-box;
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 1.7444rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 1.991rem 1.744rem 1.986rem;
+      padding: 1.134rem 1.134rem 1.376rem 1.134rem;
+      white-space: nowrap;
+      width: calc(100% - 3.977rem);
+    }
+    .do-not-have-an-account-create-one-CGU {
+      align-items: baseline;
+      color: #e42828;
+      display: flex;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 1.7444rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 35.669rem 3.557rem 0rem;
+      white-space: nowrap;
+
+      .do-not-have-an-account-create-one-CGU-sub-0 {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.7444rem;
+        font-weight: 400;
+        line-height: 1.2125;
+      }
+      .do-not-have-an-account-create-one-CGU-sub-1 {
+      }
+    }
+    .frame-5-WwN {
+      align-items: center;
+      background-color: #ff0000;
+      border-radius: 1.9188rem;
+      color: #ffffff;
+      display: flex;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.1399rem;
+      font-weight: 400;
+      height: 9.2832rem;
+      justify-content: center;
+      line-height: 1.2125;
+      margin: 0rem 1.977rem 3.276rem 1.986rem;
+      white-space: nowrap;
+      width: calc(100% - 3.963rem);
+    }
+    .auto-group-4grx-PVN {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 0.041rem 3.244rem 0rem;
+      width: calc(100% - 0.0406rem);
+
+      .line-1-7wA {
+        background-color: #733d3d;
+        flex-shrink: 0;
+        height: 0.2617rem;
+        margin: 0.173rem 0.862rem 0rem 0rem;
+        width: 32.3383rem;
+      }
+      .or-Bw2 {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.0933rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-right: 0.7rem;
+        white-space: nowrap;
+      }
+      .line-2-heU {
+        background-color: #723d3d;
+        flex-shrink: 0;
+        height: 0.2617rem;
+        margin-top: 0.267rem;
+        width: 33.7rem;
+      }
+    }
+    .auto-group-s13r-3CY {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 2.863rem 0rem 1.986rem;
+      width: calc(100% - 4.8492rem);
+
+      .frame-6-MU8 {
+        align-items: center;
+        background-color: #ffffff;
+        border: solid 0.1744rem #000000;
+        border-radius: 0.9594rem;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 4.7099rem;
+        margin: 0.087rem 2.965rem 0rem 0rem;
+        padding: 1.308rem 5.688rem 1.202rem 2.617rem;
+
+        .google-1-FZW {
+          flex-shrink: 0;
+          height: 1.8316rem;
+          margin: 0rem 1.744rem 0.368rem 0rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 3.3144rem;
+        }
+        .continue-with-google-P9v {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.7444rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-top: 0rem;
+          white-space: nowrap;
+        }
+      }
+      .frame-7-VTr {
+        align-items: center;
+        background-color: #ffffff;
+        border: solid 0.1744rem #000000;
+        border-radius: 0.9594rem;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 4.7099rem;
+        margin-bottom: 0.0872rem;
+        padding: 1.308rem 2.89rem 0.872rem 3.576rem;
+
+        .facebook-1-pm2 {
+          flex-shrink: 0;
+          height: 2.5294rem;
+          margin-right: 2.2677rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 2.5294rem;
+        }
+        .continue-with-facebook-Apt {
+          color: #000000;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.7444rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-bottom: 0.3294rem;
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+}

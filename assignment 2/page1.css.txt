@@ -1,0 +1,720 @@
+.desktop-2-eXv {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .frame-8-svU {
+    background-color: #ffffff;
+    box-sizing: border-box;
+    height: 102.4rem;
+    left: 0;
+    overflow: hidden;
+    padding: 2.6rem 2.4rem 28.552rem 2.4rem;
+    position: absolute;
+    top: 0;
+    width: 144rem;
+
+    .sumsang-1-Y9S {
+      border-radius: 13.4rem;
+      height: 5rem;
+      margin: 0rem 0rem 1.6rem 13.5rem;
+      width: 4.5rem;
+    }
+    .frame-9-SVi {
+      align-items: center;
+      border: solid 0.1rem #000000;
+      border-radius: 1.8rem;
+      box-shadow: 0 -0.4rem 0.4rem #000000, 0 0.4rem 0.4rem #000000, 0.4rem 0.4rem 0.4rem #000000, -0.4rem 0.4rem 0.4rem #000000;
+      box-sizing: border-box;
+      display: flex;
+      margin-bottom: 2rem;
+      overflow: hidden;
+      padding: 1.7rem 1.5rem 1.6rem 6.5rem;
+      position: relative;
+      width: 100%;
+
+      .what-are-you-looking-for-xU4 {
+        color: #c2b4b4;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 82.8rem 0.2rem 0rem;
+        white-space: nowrap;
+      }
+      .search-1-1-pWG {
+        flex-shrink: 0;
+        height: 4.6rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 5rem;
+      }
+    }
+    .auto-group-brmn-oNC {
+      align-items: flex-start;
+      display: flex;
+      height: 46.8rem;
+      margin: 0rem 6.5rem 3rem 3.6rem;
+      width: calc(100% - 10.1rem);
+
+      .frame-47-JJx {
+        flex-shrink: 0;
+        margin: 1.9rem 50.6rem 0rem 0rem;
+        overflow: hidden;
+        position: relative;
+        width: 33rem;
+
+        .auto-group-7gbv-Qsn {
+          align-items: flex-end;
+          display: flex;
+          margin: 0rem 16.2rem 2rem 1rem;
+          width: calc(100% - 17.2rem);
+
+          .phones-wcp {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-style: italic;
+            font-weight: 700;
+            line-height: 1.2125;
+            margin-right: 0.9rem;
+            white-space: nowrap;
+          }
+          .down-arrow-1-d8G {
+            flex-shrink: 0;
+            height: 3.1rem;
+            margin-bottom: 0.1rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 3.1rem;
+          }
+        }
+        .auto-group-tp3e-ZGp {
+          align-items: center;
+          display: flex;
+          margin: 0rem 16.5rem 2.3rem 0.7rem;
+          width: calc(100% - 17.2rem);
+
+          .tablets-Hic {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-style: italic;
+            font-weight: 700;
+            line-height: 1.2125;
+            margin-right: 1.1rem;
+            white-space: nowrap;
+          }
+          .down-arrow-3-QYL {
+            flex-shrink: 0;
+            height: 3.1rem;
+            margin-top: 0.4rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 3.1rem;
+          }
+        }
+        .auto-group-emyx-wHN {
+          align-items: center;
+          display: flex;
+          margin: 0rem 0rem 2.4rem 0.6rem;
+          width: calc(100% - 0.6rem);
+
+          .smart-tv-audio-GKe {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-style: italic;
+            font-weight: 700;
+            line-height: 1.2125;
+            margin-right: 1.6rem;
+            white-space: nowrap;
+          }
+          .down-arrow-4-xyA {
+            flex-shrink: 0;
+            height: 3.1rem;
+            margin-top: 0.2rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 3.1rem;
+          }
+        }
+        .auto-group-njj6-hvk {
+          align-items: flex-end;
+          display: flex;
+          margin: 0rem 0rem 2.2rem 0.3rem;
+          width: calc(100% - 0.3rem);
+
+          .smart-appliances-eLC {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-style: italic;
+            font-weight: 700;
+            line-height: 1.2125;
+            margin: 0rem 1.7rem 0.1rem 0rem;
+            white-space: nowrap;
+          }
+          .down-arrow-2-9Xr {
+            flex-shrink: 0;
+            height: 3.1rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 3.1rem;
+          }
+        }
+        .compare-Htx {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.2rem;
+          font-style: italic;
+          font-weight: 700;
+          line-height: 1.2125;
+          margin-bottom: 1.6rem;
+          white-space: nowrap;
+        }
+        .blog-SG4 {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.2rem;
+          font-style: italic;
+          font-weight: 700;
+          line-height: 1.2125;
+          margin-left: 0.1rem;
+          white-space: nowrap;
+        }
+      }
+      .frame-10-NQc {
+        background-color: #ffffff;
+        flex-shrink: 0;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+        width: 45.5rem;
+
+        .home-phone-1-88t {
+          height: 44.9193rem;
+          left: 5.2561rem;
+          object-fit: cover;
+          position: absolute;
+          top: 0.9403rem;
+          vertical-align: top;
+          width: 35.0371rem;
+        }
+        .sumsang-2-eN8 {
+          border-radius: 9.6927rem;
+          height: 3.6167rem;
+          left: 14.6838rem;
+          object-fit: cover;
+          position: absolute;
+          top: 17.1431rem;
+          vertical-align: top;
+          width: 3.255rem;
+        }
+        .sumsang-6jv {
+          color: #b11c1c;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.4467rem;
+          font-style: italic;
+          font-weight: 800;
+          height: 1.8rem;
+          left: 15.1901rem;
+          line-height: 1.2125;
+          position: absolute;
+          top: 32.4779rem;
+          white-space: nowrap;
+          width: 7.6rem;
+        }
+      }
+    }
+    .frame-48-ZdW {
+      align-items: center;
+      display: flex;
+      margin-left: 3.4582rem;
+      overflow: hidden;
+      position: relative;
+
+      .envelope-1-hzc {
+        flex-shrink: 0;
+        height: 4.0105rem;
+        margin: 0rem 2.03rem 0.168rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 4.6121rem;
+      }
+      .support-2-RQp {
+        flex-shrink: 0;
+        height: 4.6846rem;
+        margin: 0rem 2.125rem 0.263rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 4.6753rem;
+      }
+      .user-1-LXn {
+        flex-shrink: 0;
+        height: 4.3594rem;
+        margin: 0rem 1.541rem 0.388rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 4.3594rem;
+      }
+      .shopping-cart-1-rm2 {
+        flex-shrink: 0;
+        height: 4.4478rem;
+        margin-top: 0.5rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 4.8648rem;
+      }
+    }
+  }
+  .frame-38-aS8 {
+    align-items: center;
+    border: solid 0.1001rem #000000;
+    box-sizing: border-box;
+    display: flex;
+    height: 4.6032rem;
+    left: 0;
+    overflow: hidden;
+    padding: 0.5rem 4.058rem 0.303rem 0.6rem;
+    position: absolute;
+    top: 0.2rem;
+    width: 144.1rem;
+
+    .sumsang-2-UnQ {
+      border-radius: 9.9229rem;
+      flex-shrink: 0;
+      height: 3.7026rem;
+      margin: 0rem 1.471rem 0.098rem 0rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 3.3323rem;
+    }
+    .sumsang-zkk {
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Poppins, 'Source Sans Pro';
+      font-size: 2.3016rem;
+      font-weight: 600;
+      line-height: 1.5;
+      margin: 0.3rem 23.324rem 0rem 0rem;
+      white-space: nowrap;
+    }
+    .frame-37-7aU {
+      align-items: flex-end;
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      height: 3.3023rem;
+      margin: 0rem 26.719rem 0.498rem 0rem;
+      overflow: hidden;
+      padding: 0.6rem 1.404rem 0rem 2.001rem;
+      position: relative;
+
+      .home-cn8 {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        margin-right: 3.206rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .about-us-kdS {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        margin-right: 3.2079rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .accessories-gX6 {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        margin-right: 3.2099rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .contact-1pG {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        margin-right: 3.2074rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .services-xDi {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        margin-right: 3.2076rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+      .shop-Hmn {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8175rem;
+        font-weight: 500;
+        line-height: 1.5;
+        text-align: right;
+        white-space: nowrap;
+      }
+    }
+    .search-pWp {
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Poppins, 'Source Sans Pro';
+      font-size: 1.8175rem;
+      font-weight: 500;
+      line-height: 1.5;
+      margin: 0.201rem 0.505rem 0rem 0rem;
+      text-align: right;
+      white-space: nowrap;
+    }
+    .search-1-2-8nQ {
+      flex-shrink: 0;
+      height: 2.0667rem;
+      margin-top: 0.468rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 2.2464rem;
+    }
+  }
+  .version-4-dark-eVr {
+    align-items: center;
+    background-color: #000000;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 27.3rem;
+    left: 0;
+    overflow: hidden;
+    padding: 1.1rem 14.189rem 1.5rem 7.6rem;
+    position: absolute;
+    top: 75.1rem;
+    width: 144.1rem;
+
+    .auto-group-bh2u-LtU {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 6.611rem 1.211rem 0rem;
+
+      .products-column-H32 {
+        flex-shrink: 0;
+        margin-right: 21.8rem;
+        width: 10.4rem;
+
+        .products-DxG {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-xur {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .smartphones-vbn {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .tablets-4T6 {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .headphones-bxp {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .monitors-YNG {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+      .company-column-3pp {
+        flex-shrink: 0;
+        margin-right: 22.8rem;
+        width: 10.9rem;
+
+        .about-us-zk4 {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-Lov {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .company-info-WCc {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .business-area-dY8 {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .brand-identity-mPS {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+      .resource-column-uEk {
+        flex-shrink: 0;
+        margin: 0.2rem 22.1rem 0rem 0rem;
+        width: 9.1rem;
+
+        .industries-SEg {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-abn {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .educational-Lqr {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .finance-VCx {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .retail-da4 {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .corporate-aEQ {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+      .legal-column-7k8 {
+        flex-shrink: 0;
+        margin-top: 0.2rem;
+        width: 12.6rem;
+
+        .legal-UKn {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.72rem;
+          font-weight: 500;
+          line-height: 1.5;
+          margin-bottom: 1.5289rem;
+          white-space: nowrap;
+        }
+        .links-DHN {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+
+          .terms-of-service-AyJ {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .privacy-policy-K5W {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .cookies-policy-f9N {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.72rem;
+            white-space: nowrap;
+          }
+          .data-processing-PbA {
+            color: rgba(255, 255, 255, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 1.5289rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .footer-line-Kji {
+      background-color: rgba(255, 255, 255, 0.3199999928);
+      flex-shrink: 0;
+      height: 0.0956rem;
+      margin-bottom: 0.6044rem;
+      width: 100%;
+    }
+    .frame-38-rzY {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      margin-right: 7.2889rem;
+      overflow: hidden;
+      position: relative;
+
+      .sumsang-1-QmA {
+        border-radius: 9.916rem;
+        flex-shrink: 0;
+        height: 3.7rem;
+        margin: 0.4rem 1.37rem 0rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 3.33rem;
+      }
+      .sumsang-vjW {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 1.5;
+        margin: 0.5rem 83.5rem 0rem 0rem;
+        white-space: nowrap;
+      }
+      .instagram-fSC {
+        border-radius: 9.5556rem;
+        flex-shrink: 0;
+        height: 3.8222rem;
+        margin: 0rem 2.778rem 0.278rem 0rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 3.8222rem;
+      }
+      .facebook-BQY {
+        border-radius: 9.5556rem;
+        flex-shrink: 0;
+        height: 3.8222rem;
+        margin: 0rem 2.378rem 0.278rem 0rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 3.8222rem;
+      }
+      .social-links-73J {
+        flex-shrink: 0;
+        height: 3.8222rem;
+        margin-bottom: 0.2778rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 3.8222rem;
+      }
+    }
+  }
+}
